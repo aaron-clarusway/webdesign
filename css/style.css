@@ -21,7 +21,7 @@ ul {
 
 .button_1 {
     height: 38px;
-    background: #e8491d;
+    background:  #a9508b;
     border: 0;
     padding-left: 20px;
     padding-right: 20px;
@@ -89,7 +89,7 @@ header a:hover {
 
 #showcase {
     min-height: 400px;
-    background: url('../img/showcase.jpg') no-repeat -00px;
+    background: url('../img/showcase.jpg') no-repeat;
     text-align: center;
     color: #ffffff;
 }
@@ -183,9 +183,10 @@ ul#services li {
 footer {
     padding: 20px;
     margin-top: 20px;
-    color: whitesmoke;
-    background-color: #35424a;
+    color: black;
+    background-color:#fffaf0;
     text-align: center;
+    border-top: #a9508b 3px solid;
 }
 
 ​​
